@@ -1,2 +1,2 @@
 # Mensaje por pantalla
-print("hello world \n noooo")
+print("hello world \n no")
