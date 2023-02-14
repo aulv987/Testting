@@ -6,3 +6,6 @@ print(number_list)
 
 impRangoList=list(range(1,21))
 print(impRangoList)
+
+rangos2=list(range(1,200))
+print(rangos2)
